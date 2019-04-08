@@ -42,4 +42,4 @@ export const AddCard = ({onPress, title, style, titleStyle}) => {
 
 ```
 
-All feedback is Appreciated.
+All feedback is appreciated.
