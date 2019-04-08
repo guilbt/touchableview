@@ -1,4 +1,4 @@
-# touchableview
+# Touchable View
 Touchable View component for react-native that works around all differences between android and ios touchables, making them look as native as possible.
 
 The main purpose is changing code that would be done like this:
